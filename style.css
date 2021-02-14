@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Syne+Tactile&display=swap');
+
+body{
+    background-color: rgb(224, 136, 190);
+}
+h1{
+    border-top: 1px dashed rgb(255, 0, 179);
+    border-bottom: 1px dashed rgb(255, 0, 179);
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(216, 16, 16);
+}
+
+.dotted_line {
+    border-top: 1px dashed rgb(255, 0, 179);
+}
+
+img{
+    max-width: 20%;
+}
+
+.move_to_middle {
+    padding-left: 13%;
+    padding-bottom: 9%;
+}
+
+.less_move_to_middle {
+    padding-left: 10%;
+}
+.thick_line {
+    border-top: 1px solid rgb(216, 16, 16);
+}
+
+.cursive{
+    font-family: 'Syne Tactile', cursive;
+    font-size: larger;
+}
+
+.big_cursive{
+    font-family: 'Syne Tactile', cursive;
+    font-size: xx-large;
+}
+
+.box {
+    border: 10px groove rgb(152, 41, 196);
+    padding: 10px;
+    width: fit-content;
+}
+
+.frame {
+    border: 10px ridge rgb(109, 20, 20);
+    padding: 10px;
+    width: fit-content;
+}
+
+#what_day{
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(95, 58, 231);
+}
